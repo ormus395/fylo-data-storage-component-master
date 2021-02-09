@@ -184,6 +184,7 @@ li {
   display: inline-block;
   font-size: 30px;
   font-weight: 700;
+  margin-right: 10px;
 }
 
 @media screen and (min-width: 900px) {
